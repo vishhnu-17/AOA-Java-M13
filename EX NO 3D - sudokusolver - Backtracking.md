@@ -17,8 +17,8 @@ For example:
 5. Backtrack by resetting the cell to 0 when no valid number leads to a solution.
 
 
-### Developed by: Abdur Rahman Basil A H 
-### Register Number: 212223040002
+### Developed by: Kurapati Vishnu Vardhan Reddy
+### Register Number: 212223040103
 
 ## Program:
 ```java
