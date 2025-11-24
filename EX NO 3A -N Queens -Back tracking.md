@@ -21,8 +21,8 @@ Note:
 4. If placing a queen is valid, place it and recursively attempt to place queens in the next column.  
 5. If no safe position is found in a column, backtrack and try the next possibility.
 
-### Developed by: Abdur Rahman Basil A H 
-### Register Number: 212223040002
+### Developed by: Kurapati Vishnu Vardhan Reddy
+### Register Number: 212223040103
 
 ## Program:
 ```java
