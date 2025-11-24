@@ -28,8 +28,8 @@ left → down → left → down → right → down → right.
 4. Maintain a visited matrix to avoid revisiting the same stop point.  
 5. If the destination is reached, return true; if all possibilities are exhausted, return false.
 
-## Developed by: Abdur Rahman Basil A H
-## Register Number: 212223040002
+## Developed by: Kurapati Vishnu Vardhan Reddy
+## Register Number: 212223040103
 
 ## Program:
 ```java
